@@ -7,7 +7,7 @@ Inside of main() in index.js, set the `subAccount` to get by changing the index 
 async function main() {
     try {
         
-        var subAccount = subAccounts[0]; 
+        var subAccount = subAccounts[0]; // 0 for pathway, 1 for online
 ```
 
 To run
