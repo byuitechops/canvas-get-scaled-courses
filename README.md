@@ -1,5 +1,5 @@
 # canvas-get-scaled-courses
-A snippet of code to get the scaled courses for pathway and online
+A snippet of code to get the scaled courses for pathway and online. After running the code, a csv with the scaled courses will be added to the current working directory.
 
 ## Setup
 First run the following command:
