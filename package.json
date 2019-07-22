@@ -10,7 +10,6 @@
   "author": "Joshua McKinney",
   "license": "MIT",
   "dependencies": {
-    "canvas-api-wrapper": "^3.3.5",
-    "d3-dsv": "^1.0.10"
+    "canvas-api-wrapper": "^3.3.5"
   }
 }
