@@ -40,7 +40,7 @@ module.exports = async function getScaledCourses(subAccounts, terms, options = {
     if (options.keepExactSubAccounts) {
         courses = courses
             .filter(course => {
-                return terms.some(term => term.id === course.term.id);
+                return subAccounts.some(subAccount => subAccount.id === course.account_id);
             });
     }
 
